@@ -1,18 +1,26 @@
 # Consumer Theory Drill — JEB104 (Microeconomics I, IES FSV UK)
 
-An interactive practice quiz: **1017 items** across the whole consumer-theory syllabus, split into
-four study modes. One self-contained file. Works offline; renders nicer math when online.
+An interactive practice quiz: **1041 items** across the whole consumer-theory syllabus, split into
+five study modes. One self-contained file. Works offline; renders nicer math when online.
 
-## The four sections
+## The five sections
 
-- **Teorie** (684) — quick concept recognition: multiple-choice and short flashcards on definitions,
+- **Teorie** (695) — quick concept recognition: multiple-choice and short flashcards on definitions,
   signs and classifications.
-- **Příklady** (299) — numerical exercises: type-the-number and compute-a-value multiple choice
+- **Příklady** (303) — numerical exercises: type-the-number and compute-a-value multiple choice
   (find the demand, the elasticity, the Slutsky effect, CV/EV, an NPV, and so on).
-- **Grafy** (11) — Section-C graphical practice: each card is an exam-style task ("draw X, show Y"),
+- **Postup** (8) — guided step-by-step walkthroughs: you get a problem and at each step choose the
+  right move ("set MRS = price ratio", "differentiate this way"); correct picks chain the results
+  up a trail until the problem is solved. Covers the optimum, elasticity, Slutsky, CV, labour, NPV,
+  risk, and Roy's identity.
+- **Grafy** (12) — Section-C graphical practice: each card is an exam-style task ("draw X, show Y"),
   you sketch it on paper, then reveal a worked model diagram plus a "for full marks" checklist.
 - **Koncepty** (23) — Section-B concept flashcards (5-point style): recall the full concept and its
   formula, then self-grade.
+
+Topics now include a dedicated **Income & Engel** filter (income offer curve / income expansion path
+and the Engel curve: Cobb-Douglas ray through the origin, unit income elasticity, normal vs inferior,
+homothetic vs quasilinear), alongside a Section-C graph card for it.
 
 Within Teorie and Příklady you can filter by topic and by difficulty (easy / medium / hard). Every
 answer shows a "Why" explanation. Wrong answers are remembered (in your browser) so you can drill
